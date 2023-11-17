@@ -1,0 +1,22 @@
+C:\Users\Suarez.253740\source\repos\FrmOpenFile\FrmOpenFile\bin\Debug\FrmOpenFile.exe.config
+C:\Users\Suarez.253740\source\repos\FrmOpenFile\FrmOpenFile\bin\Debug\FrmOpenFile.exe
+C:\Users\Suarez.253740\source\repos\FrmOpenFile\FrmOpenFile\bin\Debug\FrmOpenFile.pdb
+C:\Users\Suarez.253740\source\repos\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.csproj.AssemblyReference.cache
+C:\Users\Suarez.253740\source\repos\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Suarez.253740\source\repos\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.FrmOpenTextFile.resources
+C:\Users\Suarez.253740\source\repos\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.Properties.Resources.resources
+C:\Users\Suarez.253740\source\repos\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.csproj.GenerateResource.cache
+C:\Users\Suarez.253740\source\repos\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.csproj.CoreCompileInputs.cache
+C:\Users\Suarez.253740\source\repos\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.exe
+C:\Users\Suarez.253740\source\repos\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.pdb
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmOpenFile\FrmOpenFile\bin\Debug\FrmOpenFile.exe.config
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmOpenFile\FrmOpenFile\bin\Debug\FrmOpenFile.exe
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmOpenFile\FrmOpenFile\bin\Debug\FrmOpenFile.pdb
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.csproj.AssemblyReference.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.csproj.SuggestedBindingRedirects.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.FrmOpenTextFile.resources
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.Properties.Resources.resources
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.csproj.GenerateResource.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.csproj.CoreCompileInputs.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.exe
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.pdb
